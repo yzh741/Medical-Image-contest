@@ -24,7 +24,7 @@ Frontiers in Machine Learning: Saving Lives with Interpretable ML
 
 -----------------------------------------------------------------------
 
-### 分割
+###分割
 
 [https://github.com/MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 
@@ -34,11 +34,11 @@ Frontiers in Machine Learning: Saving Lives with Interpretable ML
 [https://nanonets.com/blog/semantic-image-segmentation-2020/](https://nanonets.com/blog/semantic-image-segmentation-2020/)
 ----------------------------------------------------------------------------------------------------------------
 
-#### 简介
+####简介
 
-#### 研究方向
+####研究方向
 
-# 扫描仪和WSI染色对CNN的影响
+#扫描仪和WSI染色对CNN的影响
 
 不同的组织学切片制备和染色步骤可能会导致对来自一个中心的数据进行训练的CNN无法很好地处理来自另一个中心的数据。
 [Impact of rescanning and normalization on convolutional neural network performance in multi-center, whole-slide classification of prostate cancer](https://www.nature.com/articles/s41598-020-71420-0)
@@ -47,7 +47,7 @@ Frontiers in Machine Learning: Saving Lives with Interpretable ML
 
 [Stain-transforming cycle-consistent generative adversarial networks for improved segmentation of renal histopathology](https://www.computationalpathologygroup.eu/presentations/cc-gan-renal-histopathology/)
 
-# StreamingCNN
+#StreamingCNN
 
 [StreamingCNN](https://github.com/DIAGNijmegen/StreamingCNN)
 
@@ -75,16 +75,16 @@ https://www.computationalpathologygroup.eu/projects/tsr/
 在该项目中，我们将卷积神经网络与不同染色的CRC全幻灯片图像相结合，以创建一种能够检测肿瘤萌芽和肿瘤簇（PDC）的算法。这将成为对CRC浸润边缘之内和边缘的萌芽程度进行详细，可重复分析的基础（瘤内与瘤周）。通过计算WSI中每个候选位置的芽和PDC数量，可以得出特定位置的定量数据。
 
 
-### 可解释性
+###可解释性
 [2019MICCAI-Domain Adaptation and Representation Transfer](https://sites.google.com/view/dart2020)
 
 
-#### Thesis
+####Thesis
 
 1.  [Thijs Kooi-Computer aided diagnosis of breast cancer in mammography using deep neural networks](http://www.diagnijmegen.nl/index.php/Publication?bibkey=Kooi18)
 2.  [《神经网络与深度学习》讲义](http://vdisk.weibo.com/s/ayG13we2ltDAT)，邱锡鹏。
 
-#### 实验室 & Research
+####实验室 & Research
 
 [亥姆霍兹人工智能合作部](https://camp.lcsr.jhu.edu/)
 * ## [Stain Separation and Structure-Preserving Color Normalization for Histological Images](http://campar.in.tum.de/Chair/ProjectStainSeparation)
@@ -115,14 +115,14 @@ https://www.computationalpathologygroup.eu/projects/tsr/
 * [Pathology-Learning to Cure](http://learningtocure.csail.mit.edu/#projects)
 
 
-#### 经典论文
+####经典论文
 
 1.  [Wu, Nan, et al. "Deep Neural Networks Improve Radiologists' Performance in Breast Cancer Screening." arXiv preprint arXiv:1903.08297 (2019).](https://openreview.net/pdf?id=SkxYez76FE)
 [openreview](https://openreview.net/forum?id=SkxYez76FE&noteId=SkxYez76FE)
 
 
 
-#### Code
+####Code
 
 
 * [ASAP-Automated Slide Analysis Platform](https://github.com/computationalpathologygroup/ASAP)
@@ -142,18 +142,18 @@ https://www.computationalpathologygroup.eu/projects/tsr/
 * [Diagnostic Image Analysis Group](https://github.com/DIAGNijmegen?page=2)
 
 
-#### Dataset
+####Dataset
 
 
     
 
-### 报告
+###报告
 
 [[#20-16] MICS在线学术讲座：彭廷莹（亥姆霍兹人工智能合作部）](https://www.bilibili.com/video/BV16K411G71G)
 [[#20-03] MICS在线学术讲座：黄昆（计算病理与基因组学数据的整合分析）](https://www.bilibili.com/video/BV1Za4y1v76N)
 
 
-#### Challenge
+####Challenge
 
 [近三年病理(WSI)医学图像比赛汇总](https://zhuanlan.zhihu.com/p/298304895)
 
@@ -181,12 +181,12 @@ https://www.computationalpathologygroup.eu/projects/tsr/
 
 
 
-### Workshops and Courses
+###Workshops and Courses
 
 [COMPAY19 Workshop](https://compay19.grand-challenge.org/)
 
 
-### Blog
+###Blog
 
 [肿瘤病理图向-机器学习应用](https://zhuanlan.zhihu.com/p/110083982)
 ## [Assisting Pathologists in Detecting Cancer with Deep Learning](https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html)
