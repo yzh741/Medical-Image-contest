@@ -59,3 +59,11 @@
   * 结果：![pair2020](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2020.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
   * 参赛队伍：529
+
+### DigestPath2019(肝癌)   
+  * 会议： Pathology AI Platform (PAIP) and the Seoul National University Hospital (SNUH)
+  * Dataset：50trainging set  10validation set  40test set
+  * 任务：
+      * task1：signet ring cell detection
+      * task2：Colonoscopy tissue segmentation and classification
+  * 地址：https://digestpath2019.grand-challenge.org/
