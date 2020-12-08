@@ -17,7 +17,7 @@
   * 会议： The IEEE International Symposium on Biomedical Imaging (ISBI)
   * Dataset: WSI(H&E)       
   * 任务：分类 (对前列腺癌进行gleason_score)+分割    
-  * 地址：https://www.kaggle.com/c/prostate-cancer-grade-assessment    
+  * 地址：https://acdc-lunghp.grand-challenge.org/   
   * metrics: Dice系数  
   * 结果：![ACDC2019](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/ACDC2019.png)    
   * 有无发表论文：对于每个阶段，将邀请排名前10位的团队共同撰写联合期刊论文，每个团队最多2位作者介绍使用的方法以及此挑战中的结果。 论文将在挑战的每个阶段之后的8个月内提交给该领域的高影响力期刊（例如IEEE TMI，医学图像分析）。
