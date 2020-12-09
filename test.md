@@ -70,4 +70,5 @@
   * metrics:
     * task1: FROC
     * task2: Dice Similarity Coefficient (DSC) and AUC
-  * 结果
+  * 结果：![digest_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task1.png)
+          ![digest_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task2.png)
