@@ -72,3 +72,5 @@
     * task2: Dice Similarity Coefficient (DSC) and AUC
   * 结果：![digest_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task1.png)
           ![digest_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task2.png)
+  * 有无发表论文：Top-ranking teams on each task will be invited to submit full papers on describing their methods to the special issue on Deep learning for Medical Image Computing of Neurocomputing (IF= 4.072). 
+  * 参赛队伍：964
