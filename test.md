@@ -7,7 +7,7 @@
    * Dataset: WSI(H&E)11000张,数据集很大
    * 任务：分类 (对前列腺癌进行gleason_score)+分割
    * 地址：https://www.kaggle.com/c/prostate-cancer-grade-assessment
-   * metrics:
+   * metrics: 二次加权kappa
    * 结果：![PNADA](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/PNADA.png)
    * 有无发表论文：
    * 参赛队伍：
@@ -67,3 +67,7 @@
       * task1：signet ring cell detection
       * task2：Colonoscopy tissue segmentation and classification
   * 地址：https://digestpath2019.grand-challenge.org/
+  * metrics:
+    * task1: FROC
+    * task2: Dice Similarity Coefficient (DSC) and AUC
+  * 结果
