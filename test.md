@@ -21,8 +21,9 @@
   * metrics: Dice系数  
   * 结果：![ACDC2019](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/ACDC2019.png)    
   * 有无发表论文：对于每个阶段，将邀请排名前10位的团队共同撰写联合期刊论文，每个团队最多2位作者介绍使用的方法以及此挑战中的结果。 论文将在挑战的每个阶段之后的8个月内提交给该领域的高影响力期刊（例如IEEE TMI，医学图像分析）。
-     * Citation：Li, Zhang, et al. "Deep Learning Methods for Lung Cancer Segmentation in Whole-slide Histopathology Images--the ACDC@ LungHP Challenge 2019." arXiv preprint arXiv:2008.09352 (2020).
+     * >Li, Zhang, et al. "Deep Learning Methods for Lung Cancer Segmentation in Whole-slide Histopathology Images--the ACDC@ LungHP Challenge 2019." arXiv preprint arXiv:2008.09352 (2020).
      * [Deep Learning Methods for Lung Cancer Segmentation in Whole-slide Histopathology Images -- the ACDC@LungHP Challenge 2019](https://arxiv.org/abs/2008.09352)
+     
   * 参赛队伍：516
   
   
@@ -34,6 +35,8 @@
   * metrics: F1系数
   * 结果：![ECDP2020](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/EDCP2020.png)  
   * 有无发表论文：The best performing methods will be invited to collaborate on a journal paper describing and summarizing the different approaches used and the respective results achieved on the Challenge.
+    * Cirtation：La Barbera D, Roitero K, Della Mea V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning[J]. Journal of Imaging, 2020, 6(9): 82.
+    * [Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning](https://www.mdpi.com/2313-433X/6/9/82)
   * 参赛队伍：1070
   
   
@@ -76,6 +79,8 @@
   * 结果：![digest_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task1.png)
           ![digest_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task2.png)
   * 有无发表论文：Top-ranking teams on each task will be invited to submit full papers on describing their methods to the special issue on Deep learning for Medical Image Computing of Neurocomputing (IF= 4.072). 
+    * Cirtation：Zhu C, Mei K, Peng T, et al. Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet[J]. arXiv preprint arXiv:2006.15954, 2020.
+    * [Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet](https://arxiv.org/abs/2006.15954)
   * 参赛队伍：964
 
 Frederick National Laboratory
