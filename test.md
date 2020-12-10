@@ -45,8 +45,8 @@
           ![pair2019_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task2.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
     * Citation：
-       *Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
-       *[PAIP 2019: Liver cancer segmentation challenge](https://www.sciencedirect.com/science/article/pii/S1361841520302188)
+     * Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
+     * [PAIP 2019: Liver cancer segmentation challenge](https://www.sciencedirect.com/science/article/pii/S1361841520302188)
     
   * 参赛队伍：1194
  
