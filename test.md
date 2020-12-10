@@ -35,7 +35,7 @@
   * 参赛队伍：1070
   
   
-### Pair2019(肝癌)
+### Paip2019(肝癌)
   * 会议： MICCAI 2019
   * Dataset：50training set   10validation set  40test set       
   * 任务：癌细胞分割、活肿瘤与肿瘤面积比
@@ -44,19 +44,23 @@
   * 结果：![pair2019_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task1.png)
           ![pair2019_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task2.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
+    * Citation：
+       *Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
+       *[PAIP 2019: Liver cancer segmentation challenge](https://www.sciencedirect.com/science/article/pii/S1361841520302188)
+    
   * 参赛队伍：1194
  
-### Pair2020(大肠癌)
+### Paip2020(大肠癌)
   * 会议： Pathology AI Platform (PAIP) and the Seoul National University Hospital (SNUH)
   * Dataset：47trainging set  31validation set  40test set
   * 任务：
     * main task：分三种大肠癌分子亚型
     * mandatory task：大肠癌分割
   * 地址：https://paip2020.grand-challenge.org/
-  * metrics：
+  * metrics：F1-score
   * 结果：![pair2020](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2020.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
-  * 参赛队伍：529
+  * 参赛队伍：531
 
 ### DigestPath2019(肝癌)   
   * 会议： Pathology AI Platform (PAIP) and the Seoul National University Hospital (SNUH)
@@ -72,3 +76,5 @@
           ![digest_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task2.png)
   * 有无发表论文：Top-ranking teams on each task will be invited to submit full papers on describing their methods to the special issue on Deep learning for Medical Image Computing of Neurocomputing (IF= 4.072). 
   * 参赛队伍：964
+
+Frederick National Laboratory
