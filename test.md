@@ -40,9 +40,7 @@
   * Dataset：50training set   10validation set  40test set       
   * 任务：癌细胞分割、活肿瘤与肿瘤面积比
   * 地址：https://paip2019.grand-challenge.org/ 
-  * metrics: 
-    * task1:average jaccard   每个jaccard值必须大于0.65，否则为0
-    * task2:待定
+  * metrics: ![pair2019_metrics](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_metrics.png)
   * 结果：![pair2019_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task1.png)
           ![pair2019_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task2.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
