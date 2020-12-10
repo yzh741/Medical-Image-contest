@@ -5,7 +5,7 @@
 ### Prostate cANcer graDe Assessment (PANDA) Challenge(前列腺癌竞赛2020)
    * 会议：MICCAI 2020: the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention.
    * Dataset: WSI(H&E)11000张,数据集很大
-   * 任务：分类 (对前列腺癌进行gleason_score)+分割
+   * 任务：分类 (对前列腺癌进行gleason_score)
    * 地址：https://www.kaggle.com/c/prostate-cancer-grade-assessment
    * metrics: 二次加权kappa
    * 结果：![PNADA](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/PNADA.png)
