@@ -35,7 +35,7 @@
   * metrics: F1系数
   * 结果：![ECDP2020](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/EDCP2020.png)  
   * 有无发表论文：The best performing methods will be invited to collaborate on a journal paper describing and summarizing the different approaches used and the respective results achieved on the Challenge.
-    * Cirtation：La Barbera D, Roitero K, Della Mea V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning[J]. Journal of Imaging, 2020, 6(9): 82.
+    * >La Barbera D, Roitero K, Della Mea V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning[J]. Journal of Imaging, 2020, 6(9): 82.
     * [Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning](https://www.mdpi.com/2313-433X/6/9/82)
   * 参赛队伍：1070
   
@@ -49,7 +49,7 @@
   * 结果：![pair2019_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task1.png)
           ![pair2019_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task2.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
-     * Citation：Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
+     * >Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
      * [PAIP 2019: Liver cancer segmentation challenge](https://www.sciencedirect.com/science/article/pii/S1361841520302188)
     
   * 参赛队伍：1194
@@ -79,7 +79,7 @@
   * 结果：![digest_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task1.png)
           ![digest_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/digest_task2.png)
   * 有无发表论文：Top-ranking teams on each task will be invited to submit full papers on describing their methods to the special issue on Deep learning for Medical Image Computing of Neurocomputing (IF= 4.072). 
-    * Cirtation：Zhu C, Mei K, Peng T, et al. Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet[J]. arXiv preprint arXiv:2006.15954, 2020.
+    * >Zhu C, Mei K, Peng T, et al. Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet[J]. arXiv preprint arXiv:2006.15954, 2020.
     * [Multi-level colonoscopy malignant tissue detection with adversarial CAC-UNet](https://arxiv.org/abs/2006.15954)
   * 参赛队伍：964
 
