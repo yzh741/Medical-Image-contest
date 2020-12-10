@@ -16,11 +16,13 @@
 ### ACDC2019(肺癌竞赛)    
   * 会议： The IEEE International Symposium on Biomedical Imaging (ISBI)
   * Dataset: WSI(H&E)       
-  * 任务：分类 (对前列腺癌进行gleason_score)+分割    
+  * 任务：检测和分割  
   * 地址：https://acdc-lunghp.grand-challenge.org/   
   * metrics: Dice系数  
   * 结果：![ACDC2019](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/ACDC2019.png)    
   * 有无发表论文：对于每个阶段，将邀请排名前10位的团队共同撰写联合期刊论文，每个团队最多2位作者介绍使用的方法以及此挑战中的结果。 论文将在挑战的每个阶段之后的8个月内提交给该领域的高影响力期刊（例如IEEE TMI，医学图像分析）。
+     * Citation：Li, Zhang, et al. "Deep Learning Methods for Lung Cancer Segmentation in Whole-slide Histopathology Images--the ACDC@ LungHP Challenge 2019." arXiv preprint arXiv:2008.09352 (2020).
+     * [Deep Learning Methods for Lung Cancer Segmentation in Whole-slide Histopathology Images -- the ACDC@LungHP Challenge 2019](https://arxiv.org/abs/2008.09352)
   * 参赛队伍：516
   
   
@@ -44,8 +46,7 @@
   * 结果：![pair2019_task1](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task1.png)
           ![pair2019_task2](https://github.com/yzh741/Medical-Image-contest/blob/master/image-store/pair2019_task2.png)
   * 有无发表论文：High ranked teams will be suggested to submit papers to Health Informatics Research (HIR, www.e-hir.org) which is a SCOPUS citation journal. The submission is optional, but the HIR journal will provide a fast track review.
-    * Citation：
-     * Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
+     * Citation：Kim Y J, Jang H, Lee K, et al. PAIP 2019: Liver cancer segmentation challenge[J]. Medical Image Analysis, 2020, 67: 101854.
      * [PAIP 2019: Liver cancer segmentation challenge](https://www.sciencedirect.com/science/article/pii/S1361841520302188)
     
   * 参赛队伍：1194
